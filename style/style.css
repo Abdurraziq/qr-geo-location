@@ -1,0 +1,11 @@
+body {
+    padding-top: 70px;
+}
+
+.card-main {
+    max-width: 425px;
+}
+
+#qrcode img {
+    margin: auto;
+}
